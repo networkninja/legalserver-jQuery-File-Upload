@@ -1,5 +1,11 @@
 # jQuery File Upload
 
+## Owners
+
+jon snell
+
+deanna
+
 ## Contents
 
 - [Description](#description)
